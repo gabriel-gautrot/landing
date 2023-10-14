@@ -1,0 +1,20 @@
+.btn {
+	text-decoration: none;
+	border: solid;
+	border-color: rgb(253, 164, 112);
+	background-color: rgb(253, 164, 112);
+	padding: 10px;
+	border-radius: 5px;
+	margin-left: 100px;
+}
+a {
+	color: #F1EFEF;
+	font-family: 'Inter', sans-serif;
+	font-weight: bolder;
+}
+
+a:hover {
+	color: rgb(198, 81, 2);
+	border-color: #F1EFEF;
+	background-color: #F1EFEF;
+}
